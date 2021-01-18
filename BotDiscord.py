@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 from discord.ext import commands
 from Lists import *
 from time import *
-
+#test pour voir les mises a jour
 load_dotenv("info.env")
 
 TOKEN = os.environ.get("TOKEN_ID")
